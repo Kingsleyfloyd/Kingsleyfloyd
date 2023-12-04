@@ -42,9 +42,9 @@ https://www.buymeacoffee.com/kingsleyokpo
 
 # Few Language And Tools:
 [![alt text][2.1]][2]
-[2] ![image]
+[2] http://www.github.com/Kingsleyfloyd
 
-[2.1]:(https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
+[2.1]: (https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
 
 ![image](https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/fbc1dc48-0bd9-4163-b2dd-ca33d26f3f24)
 
