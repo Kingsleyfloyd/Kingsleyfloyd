@@ -1,6 +1,6 @@
 # Hey there 👋! I'm Kingsley.
 
-[![alt text][1.1]][1]
+Twitter [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
@@ -40,11 +40,10 @@ https://www.buymeacoffee.com/kingsleyokpo
 
 ♻️   Meetups & Tech Events & Hackathons.
 
-# Few Language And Tools:
-[![alt text][2.1]][2]
-[2] http://www.github.com/Kingsleyfloyd
 
-[2.1]: (https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
+# Few Language And Tools:
+
+![image](https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
 
 ![image](https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/fbc1dc48-0bd9-4163-b2dd-ca33d26f3f24)
 
@@ -56,7 +55,7 @@ https://www.buymeacoffee.com/kingsleyokpo
 
 OS: MacOS Catalina
 
-Laptop: Macbook Pro M1
+Laptop: Macbook Pro M1 💻
 
 Browser: Chrome & Safari
 
