@@ -1,5 +1,10 @@
 # Hey there 👋! I'm Kingsley.
-https://twitter.com/Floyd7k
+
+[![alt text][1.1]][1]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[1]: http://www.twitter.com/Floyd7k
 
 # Glad to see you here!
 I am a Full Stack Developer with a mission to revolutionize how the world hires with AI and machine learning at large. 🚀
@@ -36,7 +41,10 @@ https://www.buymeacoffee.com/kingsleyokpo
 ♻️   Meetups & Tech Events & Hackathons.
 
 # Few Language And Tools:
-![image](https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
+[![alt text][2.1]][2]
+[2] ![image]
+
+[2.1]:(https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/c889186b-a519-4bac-88b1-645a1b656aa3)
 
 ![image](https://github.com/Kingsleyfloyd/Hey-there-I-m-Kingsley./assets/101264562/fbc1dc48-0bd9-4163-b2dd-ca33d26f3f24)
 
@@ -62,13 +70,6 @@ To Stay Updated: Twitter, Email
 
 
 # Show some ❤️ by starring some of the repositories!
-
-[![alt text][1.1]][1]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-[1]: http://www.twitter.com/Floyd7k
-
 
 
 
