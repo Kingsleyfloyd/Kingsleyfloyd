@@ -1,6 +1,6 @@
-# Hey there 👋! I'm Kingsley 🌡️😉.
+# Hey there 👋! I'm Kingsley.
 
-Feel free to follow me on : [![alt text][1.1]][1]
+Feel free to follow me on : [![alt text][1.1]][1] 😉
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: http://www.twitter.com/Floyd7k
