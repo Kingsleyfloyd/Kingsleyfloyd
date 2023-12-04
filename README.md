@@ -1,4 +1,4 @@
-# Hey there 👋! I'm Kingsley 🌡️😉!
+# Hey there 👋! I'm Kingsley 🌡️😉.
 
 Feel free to follow me on : [![alt text][1.1]][1]
 
