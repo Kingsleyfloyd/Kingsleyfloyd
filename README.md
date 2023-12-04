@@ -1,6 +1,6 @@
 # Hey there 👋! I'm Kingsley.
 
-Twitter [![alt text][1.1]][1]
+# Reach me on : [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
