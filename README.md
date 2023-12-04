@@ -1,9 +1,9 @@
-# Hey there 👋! I'm Kingsley; 
-feel free to follow me on : [![alt text][1.1]][1]
+# Hey there 👋! I'm Kingsley!
+
+Feel free to follow me on : [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [1]: http://www.twitter.com/Floyd7k
-
 # Glad to see you here!
 I am a Full Stack Developer with a mission to revolutionize how the world hires with AI and machine learning at large. 🚀
 
