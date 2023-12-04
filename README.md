@@ -7,7 +7,7 @@ Feel free to follow me on : [![alt text][1.1]][1] 😉
 # Glad to see you here!
 I am a Full Stack Developer with a mission to revolutionize how the world hires with AI and machine learning at large. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strapping foundation in Javascript, Nodejs, Python, Quite a balance in Mongo DB, React, AWS, etc. I've led diverse tech teams and starups covering Backend extensively, Machine Learning, DevOps and relatively building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strapping foundation in Javascript, Nodejs, Python, Quite a balance in Mongo DB, React, AWS, etc. I've led diverse tech teams and startups covering Backend extensively, Machine Learning, DevOps and relatively building scalable products from scratch with the commitment to making a positive impact through technology.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me forex trading (stocks, bonds and equity at large) watching football, tech-related YouTube videos, fueling my curiosity.
 
